@@ -78,7 +78,7 @@ The purpose of this repository is to try and collect all the open source tools r
 ## Open-Source Schematic capture 
    - [XSCHEM](https://xschem.sourceforge.io/stefan/index.html) : a schematic capture program.
    - [Xic](http://wrcad.com/xic.html) : is a full-featured physical layout editor, schematic editor, and analysis tool.
-   - [XCircuit](http://opencircuitdesign.com/xcircuit/index.html) 
+   - [XCircuit](http://opencircuitdesign.com/xcircuit/index.html) : Schematic capture for SPICE netlists and PostScript
 
 ## Open-Source Spice Simulator 
    - [NGSPICE](https://ngspice.sourceforge.io/) : source spice simulator for electric and electronic circuits.
