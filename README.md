@@ -1,7 +1,12 @@
-## Open-Source Frameworks
-   - [CHIPYARD](https://chipyard.readthedocs.io/en/stable/index.html)
-   - [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) : A modular build system for hardware
-   - [edalize](https://github.com/olofk/edalize) : Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).
+# Open ASIC World
+The purpose of this repository is to collect all the open source resources related to the Digital ASICs. 
+* * *
+
+## Open-Source Text Editors
+   - [VIM](https://www.vim.org/)
+   - [nano](https://www.nano-editor.org/)
+   - [GNU Emacs](https://www.gnu.org/software/emacs)
+* * *
 
 ## Open-Source Hardware Description Language (HDL)
    - [amaranth](https://github.com/amaranth-lang/amaranth) : A modern hardware definition language and toolchain based on Python
@@ -9,6 +14,21 @@
 
 ## Open-Source High-level Synthesis (HLS)
    - [XLS](https://github.com/google/xls) : XLS implements a High Level Synthesis toolchain that produces synthesizable designs (Verilog and SystemVerilog) from flexible, high-level descriptions of functionality.
+
+## Open-Source Simulators
+   - [Intel QuestaSim](https://www.intel.com/content/www/us/en/software-kit/795215/questa-intel-fpgas-standard-edition-software-version-23-1.html)
+   - [Icarus Verilog](https://github.com/steveicarus/iverilog)
+   - [Verilator](https://www.veripool.org/verilator/)
+   - [GHDL](http://ghdl.free.fr/) : a simulator for the VHDL language.
+
+## Open-Source Wave Viewer 
+   - [GTKWave](https://gtkwave.sourceforge.net/)
+   - [WaveDrom](https://wavedrom.com/) : draws a Timing Diagram or Waveform from simple textual description.
+
+## Open-Source Frameworks
+   - [CHIPYARD](https://chipyard.readthedocs.io/en/stable/index.html)
+   - [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler) : A modular build system for hardware
+   - [edalize](https://github.com/olofk/edalize) : Edalize is a Python Library for interacting with EDA tools. It can create project files for supported tools and run them in batch or GUI mode (where supported).
 
 ## Open-Source Complete Toolchain for VLSI
    - [ALLIANCE/CORIOLIS](https://coriolis.lip6.fr/)
@@ -35,21 +55,6 @@
    - **OpenRAM**: an open-source static random access memory (SRAM) compiler.
      - [Website](https://openram.org/)
      - [Github repository](https://github.com/VLSIDA/OpenRAM)
-
-## Open-Source Text Editors
-   - [VIM](https://www.vim.org/)
-   - [nano](https://www.nano-editor.org/)
-   - [GNU Emacs](https://www.gnu.org/software/emacs)
-
-## Open-Source Simulators
-   - [Intel QuestaSim](https://www.intel.com/content/www/us/en/software-kit/795215/questa-intel-fpgas-standard-edition-software-version-23-1.html)
-   - [Icarus Verilog](https://github.com/steveicarus/iverilog)
-   - [Verilator](https://www.veripool.org/verilator/)
-   - [GHDL](http://ghdl.free.fr/) : a simulator for the VHDL language.
-
-## Open-Source Wave Viewer 
-   - [GTKWave](https://gtkwave.sourceforge.net/)
-   - [WaveDrom](https://wavedrom.com/) : draws a Timing Diagram or Waveform from simple textual description.
 
 ## Open-Source Synthesis tool
    - [Yosys](https://yosyshq.net/yosys/) :  a framework for Verilog RTL synthesis.
