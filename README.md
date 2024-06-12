@@ -15,6 +15,7 @@ The purpose of this repository is to try and collect all the open source tools r
 
 ## Open-Source High-level Synthesis (HLS)
    - [XLS](https://github.com/google/xls) : implements a High Level Synthesis toolchain that produces synthesizable designs (Verilog and SystemVerilog) from flexible, high-level descriptions of functionality.
+   - [PipelineC](https://github.com/JulianKemmerer/PipelineC) : A C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
 
 ## Open-Source Simulators
    - [Intel QuestaSim](https://www.intel.com/content/www/us/en/software-kit/795215/questa-intel-fpgas-standard-edition-software-version-23-1.html)
