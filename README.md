@@ -71,7 +71,7 @@ The purpose of this repository is to try and collect all the open source tools r
    - [Magic VLSI Layout Tool](http://opencircuitdesign.com/magic/)
    - [KLayout](https://www.klayout.de/)  : a GDS and OASIS file viewer.
 
-## Open-Source Spice Simulator
+## Open-Source Design For Test (DFT)
    - [Fault](https://github.com/AUCOHL/Fault) : A complete open-source design-for-testing (DFT) Solution.
 
 ## Open-Source Schematic capture 
