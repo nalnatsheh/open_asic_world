@@ -1,5 +1,5 @@
 # Open ASIC World
-The purpose of this repository is to collect all the open source resources related to the Digital ASICs. 
+The purpose of this repository is to try and collect all the open source tools related to the **Design of Digital ASICs**. 
 * * *
 
 ## Open-Source Text Editors
