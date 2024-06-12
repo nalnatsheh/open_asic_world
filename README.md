@@ -9,6 +9,7 @@ The purpose of this repository is to try and collect all the open source tools r
 * * *
 
 ## Open-Source Hardware Description Language (HDL)
+   - [Verilog](https://www.verilog.com/)
    - [amaranth](https://github.com/amaranth-lang/amaranth) : A modern hardware definition language and toolchain based on Python
    - [SpinalHDL](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)
 
