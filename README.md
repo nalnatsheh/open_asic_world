@@ -26,6 +26,7 @@ The purpose of this repository is to try and collect all the open source tools r
 ## Open-Source Wave Viewer 
    - [GTKWave](https://gtkwave.sourceforge.net/)
    - [WaveDrom](https://wavedrom.com/) : draws a Timing Diagram or Waveform from simple textual description.
+   - [Surfer](https://surfer-project.org/) : An Extensible and Snappy Waveform Viewer
 
 ## Open-Source Frameworks
    - [CHIPYARD](https://chipyard.readthedocs.io/en/stable/index.html)
