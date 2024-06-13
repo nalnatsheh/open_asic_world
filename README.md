@@ -10,6 +10,7 @@ The purpose of this repository is to try and collect all the open source tools r
 
 ## Open-Source Hardware Description Language (HDL)
    - [Verilog](https://www.verilog.com/)
+   - [Chisel](https://www.chisel-lang.org/)
    - [amaranth](https://github.com/amaranth-lang/amaranth) : A modern hardware definition language and toolchain based on Python
    - [SpinalHDL](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)
 
@@ -22,6 +23,7 @@ The purpose of this repository is to try and collect all the open source tools r
    - [Icarus Verilog](https://github.com/steveicarus/iverilog)
    - [Verilator](https://www.veripool.org/verilator/)
    - [GHDL](http://ghdl.free.fr/) : a simulator for the VHDL language.
+   - [NVC](https://github.com/nickg/nvc) : a VHDL compiler and simulator.
 
 ## Open-Source Wave Viewer 
    - [GTKWave](https://gtkwave.sourceforge.net/)
@@ -68,6 +70,11 @@ The purpose of this repository is to try and collect all the open source tools r
 
 ## Open-Source Place&Route tool
    - [nextpnr](https://github.com/YosysHQ/nextpnr)
+   - [CUGR](An Extensible and Snappy Waveform Viewer) : VLSI Global Routing Tool Developed by CUHK
+   - [LibreEDA](https://libreda.org/) : a framework for the physical design of silicon chips and tries to simplify the development of place and route tools.
+
+## Open-Source GDS generation
+   - [gdsfactory](https://github.com/gdsfactory/gdsfactory) : python library to design chips
 
 ## Open-Source Layout Viewer 
    - [Magic VLSI Layout Tool](http://opencircuitdesign.com/magic/)
