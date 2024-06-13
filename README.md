@@ -24,6 +24,7 @@ The purpose of this repository is to try and collect all the open source tools r
    - [Verilator](https://www.veripool.org/verilator/)
    - [GHDL](http://ghdl.free.fr/) : a simulator for the VHDL language.
    - [NVC](https://github.com/nickg/nvc) : a VHDL compiler and simulator.
+   - [OpenVAF](https://openvaf.semimod.de/) : Verilog-A compiler that empowers the open source silicon revolution.
 
 ## Open-Source Wave Viewer 
    - [GTKWave](https://gtkwave.sourceforge.net/)
@@ -65,8 +66,8 @@ The purpose of this repository is to try and collect all the open source tools r
    - [Yosys](https://yosyshq.net/yosys/) :  a framework for Verilog RTL synthesis.
 
 ## Open-Source Static Timming Analysis (STA)
-   - **OpenTimer**
-     - [Github repository](https://github.com/OpenTimer/OpenTimer?tab=readme-ov-file)
+   - [OpenTimer](https://github.com/OpenTimer/OpenTimer?tab=readme-ov-file)
+   - [OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA)
 
 ## Open-Source Place&Route tool
    - [nextpnr](https://github.com/YosysHQ/nextpnr)
